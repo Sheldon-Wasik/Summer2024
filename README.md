@@ -4,7 +4,7 @@ This repo will host the project Alyssa will be working on, consisting of any not
 ### Getting Summer2024 for yourself
 
 
-`git clone `
+`git clone https://github.com/Sheldon-Wasik/Summer2024.git`
 
 
 ### Development
